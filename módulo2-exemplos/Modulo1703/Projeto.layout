@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="minhaFuncao.cpp" Top="No" Tabpos="1" TopLine="1">
+			<Cursor Line="13" Column="2"/>
+			<Selection Line="12" Column="2"/>
+		</File>
+		<File Name="minhaFuncao.h" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="5" Column="1"/>
+			<Selection Line="7" Column="33"/>
+		</File>
+		<File Name="main.cpp" Top="Yes" Tabpos="3" TopLine="1">
+			<Cursor Line="2" Column="25"/>
+			<Selection Line="2" Column="1"/>
+		</File>
+	</Files>
+</Layout>
