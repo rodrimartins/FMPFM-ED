@@ -22,6 +22,7 @@ int main()
 	}
 
 	cout << "====================================================== " << endl;
+	
 	//imprime a matriz na tela
 	for (i = 0; i < 2; i++)
 	{
